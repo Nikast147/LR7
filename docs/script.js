@@ -7,7 +7,7 @@
     const panel = document.createElement('div'); panel.className = 'panel';
 
     const left = document.createElement('div'); left.className = 'left';
-    const title = document.createElement('h1'); title.textContent = 'Магічна куля — задай запитання';
+    const title = document.createElement('h1'); title.textContent = 'Магічна куля — задай питання';
 
     const controls = document.createElement('div'); controls.className = 'controls';
     const input = document.createElement('input'); input.className = 'question';
